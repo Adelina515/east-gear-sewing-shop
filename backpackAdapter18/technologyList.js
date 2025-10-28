@@ -29,7 +29,7 @@ export const technologyList = [
     description: "img5",
   },
   {
-    text: "6. Зшивання накладної деталі налипучці",
+    text: "6.ЗАДНЯ СТІНКА.  Зшивання накладної деталі налипучці",
     img: ["../img/backpackAdapter18/6a.jpg", "../img/backpackAdapter18/6b.jpg"],
     description: "img6",
   },
